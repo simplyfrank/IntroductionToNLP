@@ -1,0 +1,31 @@
+The definition of NLP or Natural Language Processing is very simple, it's the study of the computational treatment of natural language. When people say natural language they usually mean human language. It doesn't mean for example, the language of some animal. 
+1:20
+In other words, this course is about teaching computers how to understand but also how to generate human language. 
+1:28
+Let me start by asking you where this quote came from. Do you know this movie? It was from the time when I was a kid. You probably haven't seen this movie. 
+1:39
+It has a person talking with a computer at +43-699-19039013 and the person says "open the pod bay doors, HAL." And the computer says "I'm sorry Dave, I'm afraid I cannot do that." 
+1:50
+Here's the answer to the quiz. This is a quote from 2001: A Space Odyssey. It's a 1968 science fiction movie by Stanley Kubrick. 
+2:00
+It was written by him and Arthur C Clarke. It's one of the first major science fiction movies that talks about 
+2:09
+computers that interact with humans using natural language. 
+2:14
+Nowadays, however, there are actual applications of natural language processing to the real world not just science fiction. 
+2:23
+I'm going to show you some examples here. 
+2:26
+The most obvious ones are search engines, all the major search engines such as Google, Yahoo!, Bing and some other search engines in other languages like Baidu in Chinese. All use natural language processing technology to understand your queries and find the matching documents. Another application is question answering for example, a few years ago IBM's Watson system famously played on television against the best human contestants in Jeopardy and won. 
+2:56
+There are nowadays natural language assistants such as Apple's Siri. And translation systems, you're probably familiar with Google Translate. 
+3:06
+There are other applications by other companies. For example, News Digest from Yahoo! There are applications to text generation. For example, the LA Times applies some computer software to generate the reports about earthquakes automatically. All those techniques use natural language processing and many person years have gone into building those systems. Now in the course of 20 hours, we're going to try to figure out what sort of technologies and what sort of insights are necessary to build systems like this. 
+3:39
+Let me make some notes here. 
+3:41
+First of all, computers are not inherently designed to understand human language. In fact, they're very confused by human language. 
+3:49
+Some very specific techniques are needed that will teach computers how to use human language. 
+3:55
+Natural language processing is the field that teaches computers how to understand language and I want to warn you that natural language processing is a very multi-disciplinary field. It draws on research and linguistics which are the study of language, theoretical computer science, mathematics, statistics, artificial intelligence, and even fields like psychology, and databases and user interfaces, and whatnot. 
